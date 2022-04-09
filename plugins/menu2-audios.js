@@ -26,7 +26,7 @@ let str = `
 ° ඬ⃟🔊 _Feliz cumpleaños_
 ° ඬ⃟🔊 _Noche de paz_
 ° ඬ⃟🔊 _Buenos dias_
-° ඬ⃟🔊 _Audio hentai_
+° ඬ⃟🔊 
 ° ඬ⃟🔊 _Chica lgante_
 ° ඬ⃟🔊 _Feliz navidad_
 ° ඬ⃟🔊 _Vete a la vrg_
@@ -45,7 +45,7 @@ let str = `
 ° ඬ⃟🔊 _Yamete_
 ° ඬ⃟🔊 _Bañate_
 ° ඬ⃟🔊 _Es puto_
-° ඬ⃟🔊 _La biblia_
+° ඬ⃟🔊 
 ° ඬ⃟🔊 _Onichan_
 ° ඬ⃟🔊 _Bot puto_
 ° ඬ⃟🔊 _Shadow Bot_
