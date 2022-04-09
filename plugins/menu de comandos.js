@@ -20,23 +20,23 @@ let menu =`
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
-║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
+║➤ *Numero del creador:* *wa.me/5493491456806 (No Bot)*
+║➤ *PayPal:
+║➤ *Numero del Bot oficial:* *wa.me/12368004837*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<INFORMACIÓN|MENUS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
-┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
+┣ ඬ⃟ℹ️️ 
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
 ┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
-┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
+┣ ඬ⃟ℹ️️ 
 ┣ ඬ⃟ℹ️ _${usedPrefix}estado_
 ┣ ඬ⃟ℹ️ _Bot_
 ┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
@@ -234,13 +234,7 @@ let menu =`
 ┣ ඬ⃟👾 _${usedPrefix}anime *random / waifu / husbu /neko*_
 ┣ ඬ⃟👾 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
 ┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<COMANDOS +18/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ Usar bajo su responsabilidad 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🔞 _${usedPrefix}labiblia_
-┗━━━━━━━━━━━━━┛
+
 ┏━━━━━━━━━━━━━┓
 ┃ *<EFECTOS PARA NOTAS DE VOZ O AUDIOS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
